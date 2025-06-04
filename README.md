@@ -6,7 +6,7 @@ This project demonstrates a real-time data ingestion and transformation pipeline
 ---
 
 ## 🏗️ Architecture
-![SCD Architecture](https://github.com/HaseebWar/HaseebWar-Streaming-Data-Ingestion-Pipeline-AWS-NiFi-Snowflake/blob/main/notes/images/SCD_Architecture.png)
+![SCD Architecture](https://github.com/HaseebWar/Streaming-Data-Ingestion-Pipeline-AWS-NiFi-Snowflake/blob/main/notes/images/SCD_Architecture.png)
 
 ---
 
